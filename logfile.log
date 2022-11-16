@@ -1,0 +1,11 @@
+2022-11-16 23:28:36,462 : INFO : test_Grocery_Purchase : cart option is opened
+2022-11-16 23:28:41,549 : INFO : test_Grocery_Purchase : Number of products in cart = 0
+2022-11-16 23:28:41,869 : INFO : test_Grocery_Purchase : Search letter C within product word
+2022-11-16 23:28:43,883 : INFO : test_Grocery_Purchase : Number of products in matched with letter C = 7
+2022-11-16 23:28:44,744 : INFO : test_Grocery_Purchase : All product word contain letter C added to cart
+2022-11-16 23:28:44,744 : INFO : test_Grocery_Purchase : Assertion Pass = word Carrot found in actual list
+2022-11-16 23:28:44,803 : INFO : test_Grocery_Purchase : Cart open
+2022-11-16 23:28:45,537 : INFO : test_Grocery_Purchase : Cost addition of all products = 1069
+2022-11-16 23:28:45,563 : INFO : test_Grocery_Purchase : Cost addition of all products is correct
+2022-11-16 23:28:55,791 : INFO : test_Grocery_Purchase : Discount percentage = 10%
+2022-11-16 23:28:55,792 : INFO : test_Grocery_Purchase : After discount cost = 962.1
